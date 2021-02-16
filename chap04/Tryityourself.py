@@ -24,4 +24,5 @@ print (sum(numbers))
 
 #4.6
 odd_numbers = list(range(1,20))
-for number in 
+for odd_numbers in range(1,20):
+	print (odd_numbers)
